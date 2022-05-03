@@ -13,7 +13,7 @@
 }
 
 
-h1, h3, label, .submit-btn, A, #footer {
+h1, h3, h2, label, .submit-btn, A, #footer {
     text-align: center;
     font-family: dancing-script;    
 }
