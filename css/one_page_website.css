@@ -18,29 +18,6 @@ h1, h3, label, .submit-btn, A, #footer {
     font-family: dancing-script;    
 }
 
-.mw1500 {
-    max-width: 1500px;
-}
-
-.mb50 {
-    margin-bottom: 50px;
-}
-
-.mt100 {
-    margin-top: 100px;
-}
-
-.custom-h1 {
-    padding: 60px;
-    font-size: 4.5rem;
-    color: white;
-}
-
-.masthead {   
-    height: 700px;
-    width: auto;
-    background-position: 53%;
-}
 
 /*=======================================================
   GALLERY
